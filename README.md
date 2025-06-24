@@ -9,4 +9,4 @@
 
  PÁGINA INICIAL
 
-     <a href="#" target="_blank">Visualizar Código</a>|<a href="#" target="_blank">Visualizar Site</a>
+     <a href="#" target="_blank">Visualizar Código</a> | <a  href="#" target="_blank">Visualizar Site</a>
