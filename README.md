@@ -5,4 +5,4 @@
 <h4>Deixando o repertório mais robusto </h4>
 
 
-<https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white>
+<img scr="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
