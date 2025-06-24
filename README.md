@@ -2,8 +2,6 @@
 
  <hr>
 
-<h4>Deixando o repertório mais robusto </h4>
-
-
-![ShieldBat](https://img.shields.io/badge/Batman-000000?)
+![ShieldBat](https://img.shields.io/badge/BatmanLorem-000000?style=for-the-badge&logo=Postmates&logoColor=white)
 ![Atualização](https://img.shields.io/badge/Finalizado-CCFF00?style=for-the-badge&logo=gameandwatch&logoColor=gray)
+
