@@ -8,5 +8,5 @@
  <hr>
 
  PÁGINA INICIAL
-  <hr>
+  <br>
  <a href="#" target="_blank">Visualizar Código</a> | <a  href="#" target="_blank">Visualizar Site</a>
