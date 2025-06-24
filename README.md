@@ -9,4 +9,6 @@
 
  PÁGINA INICIAL
   <br>
- <a href="https://github.com/ArturEric/BATMAN-With-Lorem" target="_blank">Visualizar Código</a> | <a  href="https://artureric.github.io/BATMAN-With-Lorem/" target="_blank">Visualizar Site</a>
+ <a href="https://github.com/ArturEric/BATMAN-With-Lorem/blob/main/index.html" target="_blank">Visualizar Código</a> | <a  href="https://artureric.github.io/BATMAN-With-Lorem/" target="_blank">Visualizar Site</a>
+
+
