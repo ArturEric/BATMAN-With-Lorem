@@ -4,7 +4,7 @@
 
 ![ShieldBat](https://img.shields.io/badge/BatmanLorem-000000?https://github.com/user-attachments/assets/1a051f05-9388-46e7-a633-5575621d8888)
 ![Atualização](https://img.shields.io/badge/Finalizado-CCFF00?style=for-the-badge&logo=gameandwatch&logoColor=gray)
- <img src="https://github.com/user-attachments/assets/fdab1394-73da-4507-8769-a31e7e47a666" width="100px">
+ <img src="https://github.com/user-attachments/assets/4f80eac5-ebfd-49ec-bfb2-075ddd8d8ba8" width="100px">
 
  <hr>
 
